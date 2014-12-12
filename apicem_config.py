@@ -1,2 +1,2 @@
 # Define apic-em ip
-apicem_ip = '172.19.156.180'
+apicem_ip = '10.10.20.55'
