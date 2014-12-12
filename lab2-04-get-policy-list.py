@@ -38,7 +38,7 @@ if count > 0:
             pass 
         policy_list.append([item["policyName"],s_user,s_app,d_user,d_app,item["id"]])
     policy_list.sort()
-    # print (policy_list)
+    print (policy_list)
 
 else:
     print ("No Policy Found!")
